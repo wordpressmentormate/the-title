@@ -1,0 +1,13 @@
+{
+    "name": "mentormate/mate-title",
+    "description": "A handy WordPress library to get the main title, based on the current view",
+    "keywords": ["wordpress", "the_title"],
+    "type": "library",
+    "license": "GPL-2.0+",
+    "authors": [
+    ],
+    "require": {},
+    "autoload": {
+        "files": ["title.php"]
+    }
+}
